@@ -1,4 +1,4 @@
-Ceci est la simulation d'un système de cryptographie post-quantique du groupe G3D
+Ceci est la simulation d'un système de cryptographie post-quantique
 
 Le système que nous utilisons (Gentry-Sahai-Waters Encryption) est un système homomorphe fondé
 sur l'apprentisage avec erreurs. Cette methode constitue l'une des principales pistes de recherche pour
